@@ -62,7 +62,7 @@ const About = ({ setActiveSection }) => {
           <div className="absolute inset-0 border-4 border-secondary rounded-lg transform -rotate-6"></div>
           <div className="relative w-full h-full rounded-lg overflow-hidden bg-dark/50 backdrop-blur-sm">
             <img
-              src="src/assets/julius-photo.png"
+              src="public\julius-photo.png"
               alt="Julius Nganga Hinga"
               className="w-full h-full object-cover"
             />
